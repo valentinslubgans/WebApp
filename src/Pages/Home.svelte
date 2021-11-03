@@ -35,11 +35,12 @@
                 databases and so on... This project is only made to show: i do understand what i`m doing and i`m enough motivated to carry on.
                 I`m ready to learn new, improoving myself and work hard as much, as it will be needed.
             </p>
-            <p>
-                My code on GitHub:
-                <a href="https://github.com/valentinslubgans/WebApp.git">Web app repository</a>
-                <a href="https://github.com/valentinslubgans/Server.git">Server part repository</a>
-            </p>
+            <ul>
+                <li> <h3> My code on GitHub: </h3>  </li>
+                <li> <a href="https://github.com/valentinslubgans/WebApp.git"> <h3> Web app repository </h3> </a> </li>
+                <li> <a href="https://github.com/valentinslubgans/Server.git"> <h3> Server part repository </h3> </a> </li>
+            </ul>
+
         </span>
 </body>
 
@@ -66,6 +67,19 @@
         font-weight: 400;
         font-size: 20px;
         text-indent: 10px;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    h3 {
+        margin: 0;
+        padding: 0;
+        font-weight: 400;
+        font-size: 20px;
     }
 
 </style>

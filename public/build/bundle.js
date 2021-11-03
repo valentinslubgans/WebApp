@@ -1834,6 +1834,18 @@ var app = (function () {
     	let t12;
     	let t13;
     	let p3;
+    	let t15;
+    	let ul;
+    	let li0;
+    	let h30;
+    	let t17;
+    	let li1;
+    	let a4;
+    	let h31;
+    	let t19;
+    	let li2;
+    	let a5;
+    	let h32;
 
     	const block = {
     		c: function create() {
@@ -1862,11 +1874,26 @@ var app = (function () {
     			t13 = space();
     			p3 = element("p");
     			p3.textContent = "I never worked as developer, i do understand, most companies use Angular, React and Vue.js. Working with different\r\n                databases and so on... This project is only made to show: i do understand what i`m doing and i`m enough motivated to carry on.\r\n                I`m ready to learn new, improoving myself and work hard as much, as it will be needed.";
-    			attr_dev(p0, "class", "svelte-5sn3xi");
+    			t15 = space();
+    			ul = element("ul");
+    			li0 = element("li");
+    			h30 = element("h3");
+    			h30.textContent = "My code on GitHub:";
+    			t17 = space();
+    			li1 = element("li");
+    			a4 = element("a");
+    			h31 = element("h3");
+    			h31.textContent = "Web app repository";
+    			t19 = space();
+    			li2 = element("li");
+    			a5 = element("a");
+    			h32 = element("h3");
+    			h32.textContent = "Server part repository";
+    			attr_dev(p0, "class", "svelte-1d7v9ee");
     			add_location(p0, file$j, 13, 12, 345);
     			attr_dev(a0, "href", "https://svelte.dev/");
     			add_location(a0, file$j, 21, 40, 938);
-    			attr_dev(p1, "class", "svelte-5sn3xi");
+    			attr_dev(p1, "class", "svelte-1d7v9ee");
     			add_location(p1, file$j, 20, 12, 893);
     			attr_dev(a1, "href", "https://expressjs.com/");
     			add_location(a1, file$j, 27, 56, 1341);
@@ -1874,13 +1901,28 @@ var app = (function () {
     			add_location(a2, file$j, 28, 13, 1435);
     			attr_dev(a3, "href", "https://www.npmjs.com/package/bcrypt");
     			add_location(a3, file$j, 29, 13, 1582);
-    			attr_dev(p2, "class", "svelte-5sn3xi");
+    			attr_dev(p2, "class", "svelte-1d7v9ee");
     			add_location(p2, file$j, 26, 12, 1280);
-    			attr_dev(p3, "class", "svelte-5sn3xi");
+    			attr_dev(p3, "class", "svelte-1d7v9ee");
     			add_location(p3, file$j, 32, 12, 1682);
-    			attr_dev(span, "class", "svelte-5sn3xi");
+    			attr_dev(h30, "class", "svelte-1d7v9ee");
+    			add_location(h30, file$j, 38, 21, 2124);
+    			add_location(li0, file$j, 38, 16, 2119);
+    			attr_dev(h31, "class", "svelte-1d7v9ee");
+    			add_location(h31, file$j, 39, 79, 2241);
+    			attr_dev(a4, "href", "https://github.com/valentinslubgans/WebApp.git");
+    			add_location(a4, file$j, 39, 21, 2183);
+    			add_location(li1, file$j, 39, 16, 2178);
+    			attr_dev(h32, "class", "svelte-1d7v9ee");
+    			add_location(h32, file$j, 40, 79, 2362);
+    			attr_dev(a5, "href", "https://github.com/valentinslubgans/Server.git");
+    			add_location(a5, file$j, 40, 21, 2304);
+    			add_location(li2, file$j, 40, 16, 2299);
+    			attr_dev(ul, "class", "svelte-1d7v9ee");
+    			add_location(ul, file$j, 37, 12, 2097);
+    			attr_dev(span, "class", "svelte-1d7v9ee");
     			add_location(span, file$j, 11, 8, 323);
-    			attr_dev(body, "class", "svelte-5sn3xi");
+    			attr_dev(body, "class", "svelte-1d7v9ee");
     			add_location(body, file$j, 10, 0, 307);
     		},
     		l: function claim(nodes) {
@@ -1906,6 +1948,18 @@ var app = (function () {
     			append_dev(p2, t12);
     			append_dev(span, t13);
     			append_dev(span, p3);
+    			append_dev(span, t15);
+    			append_dev(span, ul);
+    			append_dev(ul, li0);
+    			append_dev(li0, h30);
+    			append_dev(ul, t17);
+    			append_dev(ul, li1);
+    			append_dev(li1, a4);
+    			append_dev(a4, h31);
+    			append_dev(ul, t19);
+    			append_dev(ul, li2);
+    			append_dev(li2, a5);
+    			append_dev(a5, h32);
     		},
     		p: noop,
     		i: noop,
