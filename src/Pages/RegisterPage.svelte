@@ -1,19 +1,12 @@
 <script>
-    import { beforeUpdate, afterUpdate } from 'svelte';
-    import Header from './Header.svelte';
-    import PageDescription from './PageDescription.svelte';
-    import {ActualPageDescription} from './Stores';
+    import { beforeUpdate, afterUpdate, onMount } from 'svelte';
+    import {simpleMessage} from "../Forms/messages";
     import RegisterForm from '../Forms/RegisterForm.svelte';
 
-    beforeUpdate( ()=> {
-        $ActualPageDescription.r = 0;
-        $ActualPageDescription.g = 0;
-        $ActualPageDescription.b = 0;
-        $ActualPageDescription.t = "Registration page";
+    onMount( ()=> {
+        simpleMessage( "You need to fill all fields" );
     } );
 
 </script>
 
-<Header/>
-<PageDescription/>
 <RegisterForm/>
