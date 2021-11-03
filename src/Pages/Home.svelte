@@ -12,28 +12,30 @@
         <span>
 
             <p>
-                Hi, my name is Valentins Lubgans and this is my project. At first: i want to apologise for the design, working on project, I understood
-                one thing: I`m not a designer at all. Seconds thing: im a new in programming and still learning. This project was made to show my 
-                skills in JS, CSS and THML at this moment. Now i`m looking for a junior developer job, where i can improove myself 
-                and my IT skills. I want to move forward as a IT developer.
+                Hi! My name is Valentins Lubgans and this is my project. At first I want to apologise for the design - working on this project I understood
+                one thing: I am not a designer at all. Second thing - I am  new in programming and I am still learning. This project was made to show my 
+                skills in JS, CSS and THML at this moment. Having a little experience in the IT sector for now, I am looking for a job as a junior developer where I could improve 
+                my skills as an IT developer. 
             </p>
 
             <p>
-                In this project i used  <a href="https://svelte.dev/">Svelte</a> framework for front-end development. Why Svelte? 
-                It`s new and really powerfull framework, as well it`s very friendly for users. In a case, You wish me lear Angular, 
-                React or Vue.js knowledge, i will lear it, it`s just a frameworks.
+                In this project I used  <a href="https://svelte.dev/">Svelte</a> framework for front-end development. Why Svelte? 
+                It is a new and really powerfull framework, and I find it very used-friendly. But It is just a framework and I can quickly learn to operate with other 
+                often used franeworks like Angular, React or Vue.js.
             </p>
 
             <p>
-                For the server part i used Node.js with <a href="https://expressjs.com/">express.js</a> framework. For database i used 
-             <a href="https://www.mongodb.com/">mongoDB</a> with Mongoose library. All images i`m savig on server. All passwords are hashed with 
+                For the server part I used Node.js with <a href="https://expressjs.com/">express.js</a> framework. For the database I used 
+             <a href="https://www.mongodb.com/">mongoDB</a> with Mongoose library. All images are saved on the server. All passwords are hashed with 
              <a href="https://www.npmjs.com/package/bcrypt">bcrypt</a> library.
             </p>
 
             <p>
-                I never worked as developer, i do understand, most companies use Angular, React and Vue.js. Working with different
-                databases and so on... This project is only made to show: i do understand what i`m doing and i`m enough motivated to carry on.
-                I`m ready to learn new, improoving myself and work hard as much, as it will be needed.
+                I have never worked as an IT developer, but I do know that most IT companies use Angular, React and Vue.js frameworks and use different
+                databases. This project is too small to show all the programming options, but It is big enough to show the most important part - I understand the programming structure and
+                 I challenge myself in finding solutions to any problem. Self-learning process proved that I am self-disciplined and motivated to keep working until getting the result. 
+                 I enjoyed every single challenge and brainstorming - I am now sure that learning, experimenting, exploring options and seeking the most suitable solution is something 
+                 I know I can and want to do for living. 
             </p>
             <ul>
                 <li> <h3> My code on GitHub: </h3>  </li>
