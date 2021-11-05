@@ -12,26 +12,34 @@
 <body>
     <span>
         <p>
-            If You red <a href="/#/">home page</a>, You already know, my name is Valentins Lubgans and i am 32 year old.
-            First time i face with programming when i was 15. That time were popular game "Ultima Online", i played on 
-            private server where were legal software, witch allowed automatizate avery process in a game via scripts.
-            As I`m lazy person, I start to lear script language and in some time i could automatizate everything. 
-            Year after, i join to a project, where we made own private server for this game. It wasn`t popular, 
-            as well it used script language, but it gave me good experience.
+            If you read <a href="/#/">home page</a>, you already know that my name is Valentins Lubgans and I am 32 years old. My diploma says I am a 
+            professional chef, but my passion is programming. 
+            My first programming experience was when I was 15 - back then there was a popular game "Ultima Online" that I used to play on a
+            private server with a legal software, allowing to automize any process in the game via scripts.
+            A big advantage of being a lazy person is the will to automize everything in order to do less, so I started learning script language and 
+            automized anything I could. A year later I joined a project where we made our private server for this game. The server used script language, but 
+            it was a great experience for a beginner like me and I remember enjoying this project very much. 
+            
         </p>
 
         <p> 
-            After I finished technical school and moved to England. All this time i dropped off programming,
-            before, leaving in England, i start to play "World of Warcraft" ( WoW forward ). As You remember, i`m lazy person, 
-            and didn`t want to press all buttons by myself, it was kind a playing piano... So i made the addon (using LUA languge),
-            learned Java to make software, witch could communicate with my addon and pressed buttons my place. After i start 
-            to use C++ for softwares. After i dropped off programming once again till i came back to Latvia.
+            Around the same time I finished highschool and moved to the UK. I put programming aside for a few years while I was managing my 
+            work in a restaurant and my life in another country. But a few years later I started playing the WoW or "World of Warcraft". Again, being lazy 
+            made me think of ways to avoid pressing buttons myself, so I made the addon (using LUA languge) and learned Java to make a software that 
+            could communicate with my addon and press buttons in my place. Later I started using C++ for softwares. I remember enjoying every second of it.
+            The part of programming I enjoy the most is the constant feeling of being challenged to do better, faster, more efficient. Every successful
+            step in programming gives a great feeling of accomplishment, but it also naturally leads to the next thing to solve or improve. It is 
+            a constant drive and I love it.
         </p>
 
         <p>
-            Year ago i deside: i will change my life, and first - i will change my job, i want to do, what i like to do!
-            I really enjoy with developing, solutions founding. So i start to learn Java Script. Every day after hard job, 
-            at leas hour i learned JS. At the end of summer, i finished my job, and concentrated on this project creating.
+            Last year was a game changer for me. Partly because of moving back to Latvia and re-thinking my life choices and priorities, 
+            partly because of the pandemics that made my job even more intense and made me wonder if that is something I enjoy enough to dedicate 
+            all my time and strenghts to, and partly because of recently entering my thirties - age comes with much thinking and analyzing I guess. 
+            Remembering the excitment I felt while programming, I spent my free time learning more about Java Script and challenged myself to start 
+            this project. The more I read and programmed, the more interested I was to continue. The constant learning and seeking for solutions is 
+            something I enjoy more than any job I have ever had. So the decision to change my job came naturally and I am ready to explore the 
+            IT sector!  
         </p>
     </span>
 </body>
